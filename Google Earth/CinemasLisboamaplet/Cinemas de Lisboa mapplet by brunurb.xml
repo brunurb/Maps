@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="Cinemas De Lisboa" 
+                description="Lista de Cinemas de Lisboa - antigos e novos"
+                author="brunurb"
+                author_email="brunurbportugal+Mapplet@gmail.com"
+                height="300"
+				width="320"
+				screenshot="http://hosting.gmodules.com/ig/gadgets/file/105572162381967543477/cinemasdeLisboa_screenshot.png"
+			    thumbnail="http://hosting.gmodules.com/ig/gadgets/file/105572162381967543477/cinemasdeLisboa_thumb.png"
+			    author_location="Lisbon, Portugal"
+			    author_photo="http://hosting.gmodules.com/ig/gadgets/file/105572162381967543477/authorphotobrunurb.png" 
+			    author_link="http://brunurb.googlepages.com/main.html"
+				>
+  <Require feature="sharedmap"/>
+</ModulePrefs>
+<Content type="html"><![CDATA[
+
+<blockquote>
+<p><span style="font-size: 14px; font-weight: bold;">LEGENDA</span><img width="0" height="0" /></p>
+</blockquote>
+<p><img src="http://hosting.gmodules.com/ig/gadgets/file/105572162381967543477/pink-dot.png" width="32" height="32" align="absmiddle" /><span style="font-size: 12px;">Existencia Desconhecida</span> </p>
+<p><img src="http://hosting.gmodules.com/ig/gadgets/file/105572162381967543477/red-dot.png" width="32" height="32" align="absmiddle" /><span style="font-size: 12px;">Demolido</span> </p>
+<p><img src="http://hosting.gmodules.com/ig/gadgets/file/105572162381967543477/yellow-dot.png" width="32" height="32" align="absmiddle" /><span style="font-size: 12px;">Modificado/Mudan&ccedil;a de nome</span> </p>
+<p><img src="http://hosting.gmodules.com/ig/gadgets/file/105572162381967543477/green-dot.png" width="32" height="32" align="absmiddle" /> <span style="font-size: 12px;">Em funcionamento</span> </p>
+<p>&nbsp;</p>
+<a href="http://brunurb.googlepages.com/main.html" TARGET="_blank"> brunurb </a>
+
+<script>
+var map = new GMap2();
+var geoXml = new GGeoXml("http://brunurb.googlepages.com/CinemasdeLisboabybrunurb.kml");
+
+map.setCenter(new GLatLng(38.7273, -9.1399), 13);
+map.addOverlay(geoXml);
+</script>
+
+]]></Content>
+</Module>

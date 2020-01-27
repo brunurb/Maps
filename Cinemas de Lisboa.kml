@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  <name>Cinemas de Lisboa</name>
+  <description><![CDATA[http://brunurb.googlepages.com/main.html
+actualizado by brunurb
+]]></description>
+  <NetworkLink>
+    <Url>
+      <name>Cinemas de Lisboa</name>
+      <href>http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=115820605846287354837.000438f24b40c0a54cc6d&amp;output=kml</href>
+    </Url>
+  </NetworkLink>
+</Document>
+</kml>

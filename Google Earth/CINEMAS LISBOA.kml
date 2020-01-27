@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  <name>CINEMAS LISBOA</name>
+  <description><![CDATA[Lista de cinemas de Lisboa - Portugal
+Salas de Cinema Extintas e Actuais
+by brunurb http://brunurb.googlepages.com/main.html]]></description>
+  <NetworkLink>
+    <Url>
+      <name>CINEMAS LISBOA</name>
+      <href>http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=115820605846287354837.0000011200cb7737d8c39&amp;output=kml</href>
+    </Url>
+  </NetworkLink>
+</Document>
+</kml>

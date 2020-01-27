@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>brunurb kml.kml</name>
+	<Style id="style_copy0">
+		<IconStyle>
+			<color>ffffaa55</color>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="style">
+		<IconStyle>
+			<color>ff7f55ff</color>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7faaaa</color>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>brunurb kml</name>
+		<open>1</open>
+		<Placemark>
+			<name>my boat</name>
+			<description>my boat at the harbour</description>
+			<LookAt>
+				<longitude>-9.123941800370835</longitude>
+				<latitude>38.71122449095321</latitude>
+				<altitude>0</altitude>
+				<range>340.2707592190994</range>
+				<tilt>0</tilt>
+				<heading>-2.972594739568098</heading>
+			</LookAt>
+			<styleUrl>#style_copy0</styleUrl>
+			<Point>
+				<coordinates>-9.124008115413275,38.71125292336838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>brunurb office</name>
+			<description>my office</description>
+			<LookAt>
+				<longitude>-9.139829658815499</longitude>
+				<latitude>38.71635059778412</latitude>
+				<altitude>0</altitude>
+				<range>266.8998436255792</range>
+				<tilt>1.193325818934053e-010</tilt>
+				<heading>-2.982530429928126</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<color>ffffaa55</color>
+					<Icon>
+						<href>root://icons/palette-3.png</href>
+						<x>224</x>
+						<w>32</w>
+						<h>32</h>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff7fffff</color>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>-9.140163200537501,38.71674404796394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>earthinvaders headquarters</name>
+			<description>the home of erthinvaders</description>
+			<LookAt>
+				<longitude>-9.133759565468886</longitude>
+				<latitude>38.71391288057418</latitude>
+				<altitude>0</altitude>
+				<range>138.9389825428404</range>
+				<tilt>-6.968832071737828e-010</tilt>
+				<heading>-2.978761873110374</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<color>ff7f55ff</color>
+					<Icon>
+						<href>root://icons/palette-3.png</href>
+						<x>224</x>
+						<w>32</w>
+						<h>32</h>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff7faaaa</color>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-9.133759565468886,38.71391288057418,3</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

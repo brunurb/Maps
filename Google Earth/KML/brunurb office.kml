@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>brunurb office.kml</name>
+	<Style id="style">
+		<IconStyle>
+			<color>ff7f55ff</color>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7faaaa</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>brunurb office</name>
+		<description>my office</description>
+		<LookAt>
+			<longitude>-9.139829658815499</longitude>
+			<latitude>38.71635059778412</latitude>
+			<altitude>0</altitude>
+			<range>266.8998436255792</range>
+			<tilt>1.193325818934053e-010</tilt>
+			<heading>-2.982530429928126</heading>
+		</LookAt>
+		<Style>
+			<IconStyle>
+				<color>ffffaa55</color>
+				<Icon>
+					<href>root://icons/palette-3.png</href>
+					<x>224</x>
+					<w>32</w>
+					<h>32</h>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff7fffff</color>
+			</LabelStyle>
+		</Style>
+		<Point>
+			<coordinates>-9.140163200537501,38.71674404796394,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

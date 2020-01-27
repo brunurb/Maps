@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>my boat.kml</name>
+	<Style id="style_copy0">
+		<IconStyle>
+			<color>ffffaa55</color>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>my boat</name>
+		<description>my boat at the harbour</description>
+		<LookAt>
+			<longitude>-9.123941800370835</longitude>
+			<latitude>38.71122449095321</latitude>
+			<altitude>0</altitude>
+			<range>340.2707592190994</range>
+			<tilt>0</tilt>
+			<heading>-2.972594739568098</heading>
+		</LookAt>
+		<styleUrl>#style_copy0</styleUrl>
+		<Point>
+			<coordinates>-9.124008115413275,38.71125292336838,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

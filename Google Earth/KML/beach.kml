@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>beach.kml</name>
+	<Style id="style_copy0">
+		<IconStyle>
+			<color>ffffaa55</color>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>beach</name>
+		<description>brunurb beach</description>
+		<LookAt>
+			<longitude>-9.473167004309351</longitude>
+			<latitude>38.73224755408069</latitude>
+			<altitude>0</altitude>
+			<range>989.2071607494797</range>
+			<tilt>-3.481238764043794e-010</tilt>
+			<heading>-3.189852187196164</heading>
+		</LookAt>
+		<styleUrl>#style_copy0</styleUrl>
+		<Point>
+			<coordinates>-9.473400793379511,38.73539420570165,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
